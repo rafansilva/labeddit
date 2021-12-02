@@ -4,7 +4,7 @@
 
 ## Sobre
 
-LabEddit a melhor rede social para você compartilhar suas experiências com seus amigos. 
+LabEddit uma rede social para você compartilhar suas experiências com seus amigos. 
 
 ## Link do Surge
 
