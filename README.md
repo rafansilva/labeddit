@@ -8,7 +8,7 @@ LabEddit a melhor rede social para você compartilhar suas experiências com seu
 
 ## Link do Surge
 
-- https://labeddit-rafansilva.surge.sh/login
+- https://labeddit-rafansilva.surge.sh
 
 ## Créditos
 - [Rafael N. Silva](https://github.com/rafansilva) (Developer)
